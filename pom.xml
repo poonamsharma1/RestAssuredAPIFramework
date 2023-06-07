@@ -31,6 +31,7 @@
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
             <version>${testngVersion}</version>
+            <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
